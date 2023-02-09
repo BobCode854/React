@@ -21,6 +21,4 @@
       -- API with React
       -- React and Redux
       
-
-
 */
